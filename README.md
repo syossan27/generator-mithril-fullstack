@@ -1,0 +1,1 @@
+# Mithril Full-Stack generator
